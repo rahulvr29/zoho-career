@@ -249,6 +249,7 @@ footer{
   margin-top: -250px;
   margin-left: 200px;
 }
+
 footer{
   margin-bottom: 40px;
 }
@@ -270,12 +271,20 @@ footer{
     margin-top: -120px;
     margin-left: 200px;
   }
-
+  .conatin-job{
+    margin-left: 20%;
+  }
   .job-description{
-    margin-left: 10px;
+    margin-left: 20%;
     margin-top: 10px;
   }
   footer{
     margin-bottom: 40px;
+  }
+  .one{
+  display: none;
+  }
+  .container-2 .btn-2{
+    margin-left: 20%;
   }
 }
