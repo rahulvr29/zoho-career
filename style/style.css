@@ -256,7 +256,7 @@ footer{
 
 /* Extra large devices (large desktops) */
 
-@media (max-width: 1200px) {
+@media (min-width: 1000px) {
   .job-details{
     display: flex;
     align-items: center;
